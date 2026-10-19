@@ -1,11 +1,10 @@
-<h1 align="center">Mohab Ali Elhosseny <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="32"/></h1>
+<h1 align="center">Mohab Elhosseny <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/></h1>
 
 <h3 align="center">🧪 QA Engineer | Aspiring SDET</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Manual+Testing+%7C+API+Testing;Test+cases+mapped+to+requirements;Moving+into+Java+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Manual+Testing+%7C+API+Testing;Moving+toward+Automation" alt="Typing SVG" />
 </p>
-
 <p align="center">
   <a href="mailto:mohabelhossenyy@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -70,9 +69,13 @@
 ### 🏆 Competitive Programming
 [![Codeforces](https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Mohab_Elhosseny)
 
-Algorithms and problem solving on Codeforces, ICPC participant.
+**Also familiar with**
 
-**Also familiar with:** HTML · CSS · JavaScript · MongoDB · SQLite
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 ---
 
