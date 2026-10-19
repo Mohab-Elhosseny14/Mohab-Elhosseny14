@@ -1,77 +1,81 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,161b22,2f81f7&height=240&section=header&text=Mohab%20Elhosseny&fontSize=60&fontAlignY=38&desc=QA%20Engineer&descAlignY=58&descSize=22" width="100%"/>
-</div>
+<h1 align="center">Mohab Ali Elhosseny <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="32"/></h1>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=560&lines=Requirement-driven+testing;Test+cases+traceable+to+the+SRS;Finding+bugs+before+users+do" alt="Typing SVG" />
+<h3 align="center">🧪 QA Engineer | Aspiring SDET</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Manual+Testing+%7C+API+Testing;Test+cases+mapped+to+requirements;Moving+into+Java+Automation" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="mailto:mohabelhossenyy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="PUT_YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:PUT_YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</div>
+  <a href="https://www.linkedin.com/in/mohab-elhosseny-a875422a8/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+    <a href="https://wa.me/0201212246687">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-QA Engineer from **Port Said, Egypt**, graduate of **Information Systems, Suez Canal University**.
-I design test cases directly from requirements, report bugs with clear evidence, and track them through retesting.
-
-> Every test case maps back to a requirement. Coverage is traceable, nothing is invented.
-
----
-
-## 🔍 How I Work
-
-```mermaid
-flowchart LR
-    A[Requirements / SRS] --> B[Test Design]
-    B --> C[Execution]
-    C --> D[Bug Reporting]
-    D --> E[Retest]
-    E --> F[Summary Report]
-```
+- 🎓 Information Systems graduate, Suez Canal University (2026)
+- 🧪 Manual testing, test case design, and defect reporting
+- 🔌 API testing with Postman, plus SQL fundamentals
+- ☕ Building Java skills toward test automation
+- 🔐 Security and networking background (OWASP, TCP/IP, TryHackMe)
+- 🏆 ICPC programming competition participant
 
 ---
 
-## 📘 Projects
+## 📂 Featured Projects
 
 | Project | What I Tested | Test Cases | Bugs |
 |:--|:--|:--:|:--:|
-| [**Guru99 Bank**](https://github.com/Mohab-Elhosseny14/Guru99-Bank-Manual-Testing) | Full cycle: test plan, TCs, bug reports (V1/V2), summary report | 73 | 34 |
+| [**Rahal Tour**](https://github.com/Mohab-Elhosseny14/Rahal-Tour-QA-Project) | Travel booking app: authentication and home screen, using Jira and Zephyr | 100+ | 10 |
+| [**Guru99 Bank**](https://github.com/Mohab-Elhosseny14/Guru99-Bank-Manual-Testing) | Banking app: test plan, test cases, bug reports (V1/V2), summary report | 73 | 34 |
 | [**Toolshop**](https://github.com/Mohab-Elhosseny14/Toolshop-QA-Testing-Project) | E-commerce checkout flow | 59 | 21 |
-| [**Rahal Tour**](https://github.com/Mohab-Elhosseny14/Rahal-Tour-QA-Project) | Travel booking app: Authentication and Home Screen | 100+ | 9–10 |
 
 ---
 
-## 🛠️ Toolbox
+## 🛠️ Tech Stack
 
-<div align="center">
+### 🧪 Testing & API
+![Postman](https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Zephyr](https://img.shields.io/badge/Zephyr-6B46C1?style=for-the-badge)
 
-**Test Management**
+### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-<img src="https://img.shields.io/badge/Zephyr-1E90FF?style=for-the-badge" />
+### 📱 Mobile & Databases
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**API & Documentation**
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<img src="https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+### 🔐 Security
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
-**Version Control**
+### 🏆 Competitive Programming
+[![Codeforces](https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Mohab_Elhosseny)
 
-<img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+Algorithms and problem solving on Codeforces, ICPC participant.
 
-</div>
+**Also familiar with:** HTML · CSS · JavaScript · MongoDB · SQLite
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,161b22,2f81f7&height=100&section=footer" width="100%"/>
-</div>
+<p align="center">
+  <i>Learning, testing, improving, and helping build better software.</i>
+</p>
