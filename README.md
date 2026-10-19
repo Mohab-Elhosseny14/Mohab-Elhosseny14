@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Manual+Testing+%7C+API+Testing;Moving+toward+Automation" alt="Typing SVG" />
 </p>
-```html
 <p align="center">
   <a href="mailto:mohabelhossenyy@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -17,7 +16,6 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
-```
 
 ---
 
